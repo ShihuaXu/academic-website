@@ -67,6 +67,6 @@ email: "xsh@smail.nju.edu.cn"
 highlight_name: false
 ---
 
-Shihua Xu is an PhD candidate of Nanjing University. I am interested at the evolution of subduction zone and the process of India-Asian collision by using Paleomagnetism.
+Shihua Xu is an PhD candidate of Nanjing University. I am interested in the evolution of subduction zone and the process of India-Asian collision by using Paleomagnetism.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
